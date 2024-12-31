@@ -22,8 +22,8 @@
 
 ---
 
-### Let's Connect!
-linkedin.com/in/catherine-nanyala-55676b311/  
+### Let's Connect
+ [LinkedIn](linkedin.com/in/catherine-nanyala-55676b311/)  
 - [Portfolio](https://your-portfolio-link.com) (if available)  
 
 
