@@ -23,7 +23,7 @@
 ---
 
 ### Let's Connect
- [LinkedIn](linkedin.com/in/catherine-nanyala-55676b311/)  
+ [linkedin.com/in/catherine-nanyala-55676b311/] 
 - [Portfolio](https://your-portfolio-link.com) (if available)  
 
 
