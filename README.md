@@ -58,7 +58,7 @@ A tech-powered e-commerce and education platform revolutionizing poultry farming
 ### 🤝 Let's Connect
 - [LinkedIn](https://linkedin.com/in/catherine-nanyala-55676b311)
 - 🖥️ Portfolio: Coming Soon 
-- 📫 Open to collaborations, internships, and backend/AI roles  
+- 📫 Open to collaborations, internships, and backend roles  
 
 ---
 
