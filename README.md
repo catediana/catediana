@@ -31,7 +31,7 @@ A tech-powered e-commerce and education platform revolutionizing poultry farming
 - 📊 Admin dashboard for sales & inventory
 - 💳 Online payments
 - 🔔 Notifications
-- ✍️ Blog on farming, tech, and women empowerment
+- ✍️ Blog on farming, tech, and educational empowerment
 - 🔐 Secure user roles: admin, vendor, customer
 
 
